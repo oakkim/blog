@@ -61,13 +61,13 @@ ignoreErrors = ["error-remote-getjson"]
   identifier = "about"
   name = "about"
   title = "About"
-  url = "/"
+  url = "/about"
 
 [[menu.main]]
   identifier = "blog"
   name = "blog"
   title = "Blog"
-  url = "/blog"
+  url = "/"
 
 #[[menu.main]]
 #  identifier = "album"
