@@ -42,7 +42,9 @@ toc: true
 
 <br/>
 <figure>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/lFpZLmnBvYk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div class="youtube">
+        <iframe src="https://www.youtube.com/embed/lFpZLmnBvYk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
     <figcaption>FM2에 필름을 넣고 빼는 과정, 크랭크를 돌려 필름을 감는다.</figcaption>
 </figure>
 
