@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on codex</title>
-    <link>https://example.org/blog/</link>
-    <description>Recent content in Blogs on codex</description>
+    <title>Blogs on 35bits</title>
+    <link>https://oakkim.github.io/blog/blog/</link>
+    <description>Recent content in Blogs on 35bits</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>ko-kr</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Wed, 10 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://oakkim.github.io/blog/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>필름카메라를 왜 쓸까?</title>
-      <link>https://example.org/blog/first-with-film-camera/</link>
+      <link>https://oakkim.github.io/blog/blog/first-with-film-camera/</link>
       <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/blog/first-with-film-camera/</guid>
+      <guid>https://oakkim.github.io/blog/blog/first-with-film-camera/</guid>
       <description>난 카메라를 만져본 적이 없었다. 어느 날 갑자기 필름 카메라를 사용해보고 싶었다. 근데 그냥 써보고 싶다고만 생각해서 딱히 찾아보지는 않았다. 주변에 취미로 카메라를 다루는 사람도 별로 없고 있더라도 다 디지털이었을 건데, 누가 필름 카메라를 쓸까? 싶었는데 그런 친구가 있었다. (정)동혁이는 니콘 FM2를 사용하고 있었다. 멋지게도 동혁이의 할아버지가 쓰시던 카메라라고 한다.
 이 카메라는 1982년 출시 때 렌즈 없이 225불에 팔렸다. 한국에서는 당연히 좀 더 비싸게 팔렸을 텐데, 당시 7급 공무원의 평균 임금이 호봉에 따라 8만원 ~ 21만원 정도였다.</description>
     </item>

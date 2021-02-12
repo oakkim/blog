@@ -3,56 +3,56 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.org/</loc>
+    <loc>https://oakkim.github.io/blog/</loc>
     <lastmod>2021-02-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/tags/analog/</loc>
+    <loc>https://oakkim.github.io/blog/tags/analog/</loc>
     <lastmod>2021-02-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/blog/</loc>
+    <loc>https://oakkim.github.io/blog/blog/</loc>
     <lastmod>2021-02-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/tags/camera/</loc>
+    <loc>https://oakkim.github.io/blog/tags/camera/</loc>
     <lastmod>2021-02-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://oakkim.github.io/blog/tags/</loc>
     <lastmod>2021-02-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/blog/first-with-film-camera/</loc>
+    <loc>https://oakkim.github.io/blog/blog/first-with-film-camera/</loc>
     <lastmod>2021-02-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/album/</loc>
+    <loc>https://oakkim.github.io/blog/album/</loc>
     <lastmod>2020-06-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/tags/shortcodes/</loc>
+    <loc>https://oakkim.github.io/blog/tags/shortcodes/</loc>
     <lastmod>2020-06-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/album/rich-text/</loc>
+    <loc>https://oakkim.github.io/blog/album/rich-text/</loc>
     <lastmod>2020-06-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/gallery/</loc>
+    <loc>https://oakkim.github.io/blog/gallery/</loc>
   </url>
   
   <url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://oakkim.github.io/blog/categories/</loc>
   </url>
   
 </urlset>
